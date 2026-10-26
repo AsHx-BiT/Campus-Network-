@@ -4,6 +4,13 @@ Campus Packet Lab is a campus network project built with Cisco Packet Tracer and
 
 > Website traces are simulations from the project's network model. They do not control Cisco Packet Tracer or represent live network traffic.
 
+## View the documents in your browser
+
+- [Presentation preview (PDF)](output/pdf/Campus_Packet_Lab_Presentation_Preview.pdf)
+- [Project report preview (PDF)](output/pdf/Campus_Packet_Lab_Report_Preview.pdf)
+
+GitHub previews PDF files in the browser. The original PPTX, DOCX, MP4, and PKT files are provided as downloads; open the PKT file with Cisco Packet Tracer.
+
 ## Project files
 
 - [`packet-tracer/Group_project_completed.pkt`](packet-tracer/Group_project_completed.pkt) — completed network to open in Cisco Packet Tracer 9.x.
