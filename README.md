@@ -16,7 +16,7 @@ GitHub previews PDF files in the browser. The original PPTX, DOCX, MP4, and PKT 
 - [`packet-tracer/Group_project_completed.pkt`](packet-tracer/Group_project_completed.pkt) — completed network to open in Cisco Packet Tracer 9.x.
 - [`website/`](website/) — responsive frontend and Python API/backend.
 - [`presentation/`](presentation/) — project presentation with the repository link on its cover slide.
-- [`report/`](report/) — project report with the MIT-WPU logo and network details.
+- [`report/`](report/) — project report with the network details.
 - [`video/Campus-Network-Demo.mp4`](video/Campus-Network-Demo.mp4) — project demonstration video.
 - [`packet-tracer-server-portal/index.html`](packet-tracer-server-portal/index.html) — static Campus Connect page served by the Packet Tracer Server-PT.
 
